@@ -1,0 +1,5 @@
+username: "spotipyusername"
+client_id: "spotipyclientid"
+client_secret: "spotipyclientsecret"
+playlist_id: "spotify playlist id to add music to"
+redirect_uri: "https://localhost:/callback"

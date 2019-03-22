@@ -1,0 +1,4 @@
+BeautifulSoup4
+pySmartDL
+logger
+lxml
